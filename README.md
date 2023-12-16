@@ -5,6 +5,7 @@
   ✅  ~~Selection Sort~~  
   ✅  ~~Bubble Sort~~  
   ☐  Insertion Sort  
+  ☐  Merge Sort  
 ### Searching  
   ☐  Linerar Search  
   ☐  Binary Search  
