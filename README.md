@@ -2,12 +2,15 @@
 # List of Algo and DS
 ## Algorithms
 ### Sorting
-  ✅  ~~Selection Sort~~  
-  ✅  ~~Bubble Sort~~  
-  ☐  Insertion Sort  
-  ☐  Merge Sort  
+  ✅ ~~Selection Sort~~  
+  ✅ ~~Bubble Sort~~  
+  ☐ Insertion Sort  
+  ☐ Merge Sort  
 ### Searching  
-  ☐  Linerar Search  
-  ☐  Binary Search  
+  ☐ Linerar Search  
+  ☐ Binary Search  
 ## Ds  
-  ☐ Linked list
+  ☐ Stack  
+  ☐ Queue  
+  ☐ Linked list  
+  ☐ Tree
